@@ -9,7 +9,6 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **a Text-Based ML Adventure Game**
 - 💻 Actively learning and building with the **MERN Stack**
 - 🎨 Exploring **UI/UX design** to enhance front-end experiences
 - 💡 Passionate about merging **Machine Learning** with creative web development
