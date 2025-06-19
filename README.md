@@ -10,11 +10,11 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building a **Text-Based ML Adventure Game**
-- 🌱 Exploring **UI/UX**, **DevOps**, and **AI integrations** for full-stack systems
-- 💡 I love building things that blend **code + creativity**
+- 🌱 Exploring **UI/UX**, **DevOps**, and **AI integrations**
+- 💡 I love blending **code + creativity**
 - 🧠 Skilled in **MERN Stack**, **Python**, and **Computer Vision**
 - 🌐 Portfolio: [sakethgoljana.github.io/Portfolio](https://sakethgoljana.github.io/Portfolio/)
-- 📄 [Resume (PDF)](https://drive.google.com/file/d/1pWSf3gGRDQhslc_Tmb7wldtB2RYxR7Tm/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1pWSf3gGRDQhslc_Tmb7wldtB2RYxR7Tm/view?usp=sharing)
 - 📬 Email: **sakethgoljana098@gmail.com** | 📞 **905947879**
 
 ---
@@ -35,40 +35,40 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
   <!-- Full Stack -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 
   <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
 
   <!-- ML & Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakethgoljana&show_icons=true&theme=radical&hide=prs&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakethgoljana&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakethgoljana&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakethgoljana&theme=radical" height="180" />
 </p>
 
 <p align="center">
@@ -77,22 +77,21 @@
 
 ---
 
-### 📆 Contribution Calendar
+### 🏆 Contribution Trophy
 
 <p align="center">
-  <img src="https://github-contribution-calendar.vercel.app/api?username=sakethgoljana&color=radical&radius=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sakethgoljana&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ### 😂 Dev Joke of the Day
 
-> Why do programmers prefer dark mode?<br>  
-> Because light attracts bugs! 🐛💡
+> Why do programmers hate nature?<br>
+> Because it has too many bugs! 🐞🌲
 
 ---
 
 <p align="center">
-  <i>Keep building. Keep learning. Stay curious.</i> 🚀
+  <i>Keep building. Keep shipping. Stay curious. 🚀</i>
 </p>
-
