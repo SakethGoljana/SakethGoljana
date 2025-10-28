@@ -14,7 +14,7 @@
 - 💡 Passionate about merging **Machine Learning** with creative web development
 - 👨‍💻 Check out my [Portfolio Website](https://sakethgoljana.github.io/Portfolio/)
 - 📄 [My Resume](https://drive.google.com/file/d/1pWSf3gGRDQhslc_Tmb7wldtB2RYxR7Tm/view?usp=sharing)
-- 📫 Reach me at: **sakethgoljana098@gmail.com** | 📞 **905947879**
+- 📫 Reach me at: **sakethgoljana098@gmail.com** | 📞 **9059478739**
 
 ---
 
